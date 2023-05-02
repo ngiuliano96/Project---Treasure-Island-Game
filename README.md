@@ -1,4 +1,4 @@
-## 100 Days of Python - Day 2 Final Project
+## 100 Days of Python - Day 3 Final Project
 ### Treasure Island Game
 
 This is a basic adventure game utilizing conditional logic. It is intentionally kept simple to stay in line with the 100 days of code course.
